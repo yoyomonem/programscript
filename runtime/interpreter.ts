@@ -24,7 +24,7 @@ function evaluateNumericBinaryExpression(leftHandSide: NumberValue, rightHandSid
         case "*":
             result = leftHandSide.value * rightHandSide.value
         case "/":
-            // TODO: Check for division by zero
+            // TODO: Check for division by zeros
             result = leftHandSide.value / rightHandSide.value;
         case "%":
             result = leftHandSide.value % rightHandSide.value;
