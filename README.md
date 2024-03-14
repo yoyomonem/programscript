@@ -1,10 +1,10 @@
 [Deno]: https://deno.land
 [Visual Studio Code]: https://code.visualstudio.com
-<center>
-    <img src="images/ProgramScript.png">
-    <h1>ProgramScript</h1>
-    <em>The TypeScript-based programming language</em>
-</center>
+<div align="center">
+    <img src="images/ProgramScript.png" align="center">
+    <h1 align="center">ProgramScript</h1>
+    <em align="center">The TypeScript-based programming language</em>
+</div>
 
 ## Requirements
 1. [Deno]
