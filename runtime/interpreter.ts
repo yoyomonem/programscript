@@ -1,6 +1,6 @@
 // deno-lint-ignore-file no-fallthrough
-import { type ValueType, RuntimeValue, NumberValue, NullValue } from "./values.ts";
-import { type NodeType, Statement, NumericLiteral, BinaryExpression, Program } from "../frontend/ast.ts";
+import { /* type ValueType, */ RuntimeValue, NumberValue, NullValue } from "./values.ts";
+import { /* type NodeType, */ Statement, NumericLiteral, BinaryExpression, Program } from "../frontend/ast.ts";
 import chalk from "npm:chalk@latest";
 
 function evaluateProgram(program: Program): RuntimeValue {

@@ -4,7 +4,7 @@ import chalk from "npm:chalk@latest";
 
 repl();
 
-async function repl() {
+function repl() {
     const parser = new Parser();
     console.log(chalk.yellow("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"));
     console.log(chalk.yellow("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"));
