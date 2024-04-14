@@ -1,4 +1,4 @@
-[Deno]: https://deno.land
+[Deno]: https://deno.com
 [Visual Studio Code]: https://code.visualstudio.com
 <div align="center">
     <img src="images/ProgramScript.png" align="center">
