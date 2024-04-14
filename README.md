@@ -9,3 +9,5 @@
 ## Requirements
 1. [Deno]
 2. [Visual Studio Code]
+
+<footer>Made with the help of https://www.youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh.</footer>
