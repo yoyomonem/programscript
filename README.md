@@ -1,4 +1,5 @@
 [Deno]: https://deno.com
+[Bun]: https://bun.sh
 [Visual Studio Code]: https://code.visualstudio.com
 <div align="center">
     <img src="images/ProgramScript.png" align="center">
@@ -7,7 +8,7 @@
 </div>
 
 ## Requirements
-1. [Deno]
+1. [Deno] or [Bun]
 2. [Visual Studio Code]
 
 <footer>Made with the help of https://www.youtube.com/playlist?list=PL_2VhOvlMk4UHGqYCLWc6GO8FaPl8fQTh.</footer>
